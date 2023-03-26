@@ -4,7 +4,7 @@ This repository provides the implementation of Logbert for log anomaly detection
 The process includes downloading raw data online, parsing logs into structured data, 
 creating log sequences and finally modeling. 
 
-![alt](img/1BERT.png)
+![alt](img/1Bert.png)
 
 ## Configuration
 - Ubuntu 20.04
