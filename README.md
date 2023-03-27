@@ -36,6 +36,7 @@ Reference: https://docs.conda.io/en/latest/miniconda.html
 
 ### Pretrain
 ```shell script
+cd Bert
 
 #run bert pretraining
 python ehr-bert.py vocab
