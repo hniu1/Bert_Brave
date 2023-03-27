@@ -45,6 +45,5 @@ python ehr-bert.py train
 
 ### Folders created during execution
 ```shell script 
-~/.dataset //Stores original datasets after downloading
 project/output //Stores intermediate files and final results during execution
 ```
