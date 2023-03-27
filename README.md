@@ -1,8 +1,6 @@
 # Sequence events learning via BERT
 
-This repository provides the implementation of Logbert for log anomaly detection. 
-The process includes downloading raw data online, parsing logs into structured data, 
-creating log sequences and finally modeling. 
+This repository provides the implementation of Bert for sequence anomaly detection. 
 
 ![alt](img/1Bert.png)
 
